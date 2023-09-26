@@ -1,0 +1,68 @@
+.body{
+    background-color: #F1F2F4;
+    padding-bottom: 1000px;
+    padding-left: 13px;
+    padding-right: 13px;
+    padding-top: 72px;
+    margin: 0px;
+}
+.banner1{
+    position: relative;
+    margin-top: 19px;
+    height: 227px;
+    margin-bottom: 16px;
+}
+.main-banner-img{
+    height: 100%;
+    width: 100%;
+}
+.banner2-container{
+    vertical-align: top;
+    display: inline-block;
+    background-color: chocolate;
+    height: 317px;
+    margin-left: 5px;
+    width: 200px;   
+}
+.indigo-banner-img{
+    vertical-align: middle;
+    height: 100%;
+    width: 217px;
+}
+.fit-banner-container{
+    background-color: white;
+}
+.fit-banner-img{
+    height: 600px;
+    width: 100%;
+    object-fit: cover;
+}
+.left-button-container{
+    position: absolute;
+    bottom: 65px;
+}
+.left-banner-button{
+    height: 90px;
+    width: 40px;
+    background-color: white;
+    border: none;
+    border-radius: 0px 5px 5px 0px;
+    font-size: 22px;
+    color: grey;
+
+}
+.right-button-container{
+    position: absolute;
+    bottom: 65px;
+    right: 0;
+}
+.right-banner-button{
+    height: 90px;
+    width: 40px;
+    background-color: white;
+    border: none;
+    border-radius: 5px 0px 0px 5px;
+    font-size: 22px;
+    color: grey;
+
+}
