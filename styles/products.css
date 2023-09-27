@@ -4,6 +4,7 @@
 }
 .electronics-main-container{
     display: inline-block;
+    position: relative;
     background-color: white;
     padding-left: 10px;
     height: 317px;
@@ -63,6 +64,7 @@
 
 
 .row-main-container{
+    position: relative;
     background-color: white;
     height: 317px;
     margin-top: 16px;
